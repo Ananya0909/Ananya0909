@@ -10,7 +10,7 @@
 
 ~ Front-End web development with HTML, CSS & Bootstrap
 
-🤩 Data Science enthusiast
+🤩 ML & Data Science enthusiast
 
 ✈️ I love to travel and discover hidden secrets!
 
