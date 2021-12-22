@@ -1,4 +1,4 @@
-# 👋 Heya,I'm Ananya Singh and welcome to my Github bio.
+# 👋 Heya, I'm Ananya Singh and welcome to my Github bio.
 
 📖 Currently pusuing B.Tech in the field of Computer Science and Engineering focused in IoT from Chandigarh Unversity (2020-2024)
 
