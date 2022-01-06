@@ -9,16 +9,12 @@
 ~ Python programmimg language
 
 ~ Front-End web development with HTML, CSS & Bootstrap
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=nightowl)
-
-
+ 
 🤩 ML & Data Science enthusiast
 
 ✈️ I love to travel and discover hidden secrets!
 
 🔊 I love listening to Drum and Bass, and many other kinds of music.
-
-
 
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananya0909&show_icons=true&theme=nightowl)  
