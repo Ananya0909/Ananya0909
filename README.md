@@ -1,5 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/73422300/149664725-98ce17d5-8b66-4e93-95ba-9e6c2abe4e01.png)
-👋 Heya, I'm Ananya and welcome to my Github bio.
+#👋 Heya, I'm Ananya and welcome to my Github bio.
 
 📖 Currently pusuing B.E. in the field of Computer Science and Engineering focused in IoT from Chandigarh Unversity (2020-2024)
 
